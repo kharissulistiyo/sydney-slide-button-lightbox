@@ -11,3 +11,11 @@ To enable YouTube video lightbox on the slide button of Sydney theme, follow the
 3. Activate plugin 
 4. Specify your YouTube video URL (e.g. *https://www.youtube.com/watch?v=668nUCeBHyY*) to **Customize** > **Header area** > **Header Slider** > **URL for your call to action button** 
 5. Update/Publish
+
+## Credits 
+
+Thanks to [Lity](https://github.com/jsor/lity) jQuery lightbox library
+
+## License 
+
+This plugin is licensed under GPL-2.0+
