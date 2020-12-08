@@ -62,8 +62,6 @@ if ( !class_exists('SY_Slide_Button_Lightbox') ) :
       wp_enqueue_style( 'sy-slide-button-lightbox-style' );
       wp_enqueue_script( 'sy-slide-button-lightbox-script' );
 
-      do_action('efw_wa_seller_scripts');
-
     }
 
 
