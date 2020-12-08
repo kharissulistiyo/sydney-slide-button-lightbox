@@ -1,5 +1,5 @@
-# sydney-slide-button-lightbox
-Enable lightbox button on the main slider button of Sydney WordPress theme.
+# Sydney Slide Button Lightbox
+Enable lightbox button on the main slider button of [Sydney WordPress theme](https://athemes.com/theme/sydney/).
 
 
 ## How to enable YouTube video lightbox? 
