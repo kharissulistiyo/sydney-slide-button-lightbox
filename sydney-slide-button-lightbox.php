@@ -51,8 +51,8 @@ if ( !class_exists('SY_Slide_Button_Lightbox') ) :
         'button_html' => $this->button_html($text, $url),
       );
 
-      $css_file = apply_filters('efw_wa_seller_css_file_url', SY_SLIDE_BUTTON_LIGHTBOX_URL . '/css/sy-slide-button-lightbox-style987.css');
-      $js_file = apply_filters('efw_wa_seller_js_file_url', SY_SLIDE_BUTTON_LIGHTBOX_URL .'/js/sy-slide-button-lightbox962.js');
+      $css_file = apply_filters('efw_wa_seller_css_file_url', SY_SLIDE_BUTTON_LIGHTBOX_URL . '/css/sy-slide-button-lightbox-style.css');
+      $js_file = apply_filters('efw_wa_seller_js_file_url', SY_SLIDE_BUTTON_LIGHTBOX_URL .'/js/sy-slide-button-lightbox.js');
 
       wp_register_style( 'sy-slide-button-lightbox-style', $css_file, array(), null );
       wp_register_script('sy-slide-button-lightbox-script', $js_file, array ('jquery'), false, true);
