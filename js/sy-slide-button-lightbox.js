@@ -8,7 +8,7 @@
 
   'use strict'
 
-  if( $('.button-slider').length ) {
+  if( ('not-exists' != slide_button.button_html ) && $('.button-slider').length ) {
 
     $('a.button-slider').replaceWith( slide_button.button_html );
 
